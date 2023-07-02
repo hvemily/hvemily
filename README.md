@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning HTML & CSS
 - 📫 How to reach me emily.brynestad@hotmail.com
 
-- ![artifact](https://github.com/hvemily/hvemily/assets/126881207/d9cb476c-60a5-42e1-8796-7cff847e4b6c)
+![giphy](https://github.com/hvemily/hvemily/assets/126881207/e7b34c18-1e99-4545-b810-d06ea0590b12)
+
 
 
 <!---
