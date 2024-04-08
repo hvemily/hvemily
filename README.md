@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @hvemily
 - 👀 I’m interested in technology, gaming, music and more.
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning HTML & CSS & JavaScript
 - 📫 How to reach me emily.brynestad@hotmail.com
 
 
