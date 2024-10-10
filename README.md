@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @hvemily
-- 📝 I study frontend developement @ Noroff Educational School.
+- 📖 I study frontend developement @ Noroff School of Technology and Digital Media.
 - 👀 I’m interested in technology, gaming, music and more.
 - 🌱 I’m currently learning HTML & CSS & JavaScript
 - 📫 How to reach me emily.brynestad@hotmail.com
