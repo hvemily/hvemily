@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @hvemily
-- 📖 I study frontend development @ Noroff School of Technology and Digital Media.
+- 📖 I have a vocational diploma @ Noroff School of Technology and Digital Media.
 - 👀 I’m interested in technology, gaming, music and more.
 - 🌱 I’m currently learning JavaScript & React
 - 📫 How to reach me emily.brynestad@hotmail.com
